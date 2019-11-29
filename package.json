@@ -1,5 +1,5 @@
 {
-  "name": "christmas",
+  "name": "christmas_tree",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Dan Spector",
+  "license": "MIT",
   "dependencies": {
     "p5": "^0.10.2"
   },
