@@ -10,7 +10,8 @@
   "author": "Dan Spector",
   "license": "MIT",
   "dependencies": {
-    "p5": "^0.10.2"
+    "p5": "^0.10.2",
+    "p5.gif": "^1.0.6"
   },
   "devDependencies": {
     "sass": "^1.23.7"
